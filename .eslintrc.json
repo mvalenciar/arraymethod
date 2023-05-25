@@ -5,7 +5,10 @@
     "node": true
   },
   "extends": ["airbnb-base", "prettier", "plugin:prettier/recommended"],
-  "plugins": ["prettier"],
+  "plugins": ["prettier", "html"],
+  "settings": {
+    "html/html-extensions": [".html", ".we"]
+  },
   "overrides": [],
   "parserOptions": {
     "ecmaVersion": "latest"
