@@ -1,0 +1,32 @@
+{
+  "name": "arraysinjavascript",
+  "version": "1.0.0",
+  "description": "metodos arrays en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvalenciar/arraymethod.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "method"
+  ],
+  "author": "Milton Valencia R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvalenciar/arraymethod/issues"
+  },
+  "homepage": "https://github.com/mvalenciar/arraymethod#readme",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
